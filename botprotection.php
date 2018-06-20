@@ -5,8 +5,8 @@ https://gitlab.com/Volting/BotProtection
 */
 
 // Don't forget to configure me !
-$siteKey = '6Lf4X18UAAAAAJ7pYbOBv2Yt7Vs3XE9L65G7oVU9';
-$secret = '6Lf4X18UAAAAAPOdNzSKWqADCxuIG9ToXFlJdcuV';
+$siteKey = '--';
+$secret = '--';
 
 require 'recaptchalib.php';
 
